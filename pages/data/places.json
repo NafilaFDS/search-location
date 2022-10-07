@@ -1,0 +1,79 @@
+[
+    {
+        "id": "Oriole_0",
+        "name": "Oriole",
+        "image": "https://cdn.pixabay.com/photo/2018/07/14/15/27/cafe-3537801_960_720.jpg",
+        "location": "661 W Walnut St, Chicago, IL 60661, United States",
+        "visitCount": "10k",
+        "position": {
+            "lat": 41.8860243,
+            "lng": -87.6493677
+        }
+    },
+    {
+        "id": "Charleston_1",
+        "name": "Charleston",
+        "image": "https://cdn.pixabay.com/photo/2014/09/17/20/26/restaurant-449952_960_720.jpg",
+        "location": "1000 Lancaster St, Baltimore, MD 21202, United States",
+        "visitCount": "25k",
+        "position": {
+            "lat": 39.2827244,
+            "lng": -76.6015806
+        }
+    },
+    {
+        "id": "NationalArtGallery_2",
+        "name": "National Gallery of Art",
+        "image": "https://cdn.pixabay.com/photo/2017/04/05/01/10/natural-history-museum-2203648_960_720.jpg",
+        "location": "Constitution Ave. NW, Washington, DC 20565, United States",
+        "visitCount": "30k",
+        "position": {
+            "lat": 38.8920829,
+            "lng": -77.0216972
+        }
+    },
+    {
+        "id": "NorthShore_3",
+        "name": "North Shore University Hospital",
+        "image": "https://cdn.pixabay.com/photo/2016/11/08/05/29/surgery-1807541_960_720.jpg",
+        "location": "300 Community Dr, Manhasset, NY 11030, United States",
+        "visitCount": "6k",
+        "position": {
+            "lat": 40.7755015,
+            "lng": -73.7033922
+        }
+    },
+    {
+        "id": "MidwayCrossings_4",
+        "name": "Midway Crossings",
+        "image": "https://cdn.pixabay.com/photo/2015/08/25/11/50/stairs-906723_960_720.jpg",
+        "location": "7795 W Flagler St, Miami, FL 33144, United States",
+        "visitCount": "74k",
+        "position": {
+            "lat": 25.7725326,
+            "lng": -80.3251595
+        }
+    },
+    {
+        "id": "PrincetonUniversity_5",
+        "name": "Princeton University",
+        "image": "https://cdn.pixabay.com/photo/2016/05/18/11/25/library-1400313_960_720.jpg",
+        "location": "Princeton, NJ 08544, United States",
+        "visitCount": "12k",
+        "position": {
+            "lat": 40.3472456,
+            "lng": -87.6493677
+        }
+    },
+    {
+        "id": "HoustonPolice_6",
+        "name": "Houston Police Department",
+        "image": "https://cdn.pixabay.com/photo/2016/07/20/20/51/car-1531273_960_720.jpg",
+        "location": "PF44+M9 Chinatown, Houston, TX, USA",
+        "visitCount": "44k",
+        "position": {
+            "lat": 41.8860243,
+            "lng": -74.6605859
+        }
+    }
+]
